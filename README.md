@@ -154,7 +154,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact  
 Have questions or suggestions? Feel free to reach out!  
 - **Email:** radharamangurjar4104@gmail.com  
-- **GitHub:** [Radharamangurjar315](https://github.com/Radharamangurjar315)  
+- **GitHub:** [Abhinav-gupta-123]([https://github.com/Radharamangurjar315](https://github.com/Abhinav-gupta-123))  
 
 Let’s build a brighter future for agriculture together! 🌱  
 >>>>>>> a3af869 (Initial commit)
