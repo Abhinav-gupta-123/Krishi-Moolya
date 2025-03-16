@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
   "dev": "concurrently \"npm run start:backend\" \"vite\"",
-"start:backend": "concurrently \"python C:/Users/abhin/Desktop/Krishi-Moolya/crop_recommendation/api.py\" \"python C:/Users/abhin/Desktop/Krishi-Moolya/fertilizer_recommendation/api.py\" \"python C:/Users/abhin/Desktop/Krishi-Moolya/model4/model4api.py\" \"python C:/Users/abhin/Desktop/Krishi-Moolya/model34_2/model34/model3/pricepredictionapi.py\" \"python C:/Users/abhin/Desktop/Krishi-Moolya/Weather_apis/news_api.py\" \"python C:/Users/abhin/Desktop/Krishi-Moolya/Weather_apis/whether_api.py\" \"python C:/Users/abhin/Desktop/Krishi-Moolya/ofchatapi.py\""
+  "start:backend": "concurrently \"python Krishi-Moolya/crop_recommendation/api.py\" \"python Krishi-Moolya/fertilizer_recommendation/api.py\" \"python Krishi-Moolya/model4/model4api.py\" \"python Krishi-Moolya/model34_2/model34/model3/pricepredictionapi.py\" \"python Krishi-Moolya/Weather_apis/news_api.py\" \"python Krishi-Moolya/Weather_apis/whether_api.py\" \"python Krishi-Moolya/ofchatapi.py\""
 },
   "dependencies": {
     "@emotion/react": "^11.14.0",
