@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
   "dev": "concurrently \"npm run start:backend\" \"vite\"",
-  "start:backend": "concurrently \"python crop_recommendation/api.py\" \"python fertilizer_recommendation/api.py\" \"python model4/model4api.py\" \"python model34_2/model34/model3/pricepredictionapi.py\" \"python Weather_apis/news_api.py\" \"python Weather_apis/whether_api.py\" \"python ofchatapi.py\""
+  "start:backend": "concurrently \"python krishi_moolya/KrishiMoolya/crop_recommendation/api.py\" \"python krishi_moolya/KrishiMoolya/fertilizer_recommendation/api.py\" \"python krishi_moolya/KrishiMoolya/model4/model4api.py\" \"python krishi_moolya/KrishiMoolya/model34_2/model34/model3/pricepredictionapi.py\" \"python krishi_moolya/KrishiMoolya/Weather_apis/news_api.py\" \"python krishi_moolya/KrishiMoolya/Weather_apis/whether_api.py\" \"python krishi_moolya/KrishiMoolya/ofchatapi.py\""
 },
   "dependencies": {
     "@emotion/react": "^11.14.0",
