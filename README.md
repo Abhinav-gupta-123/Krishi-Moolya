@@ -5,6 +5,16 @@ AIML-based Crop Price Prediction Model
 🖼 Project Screenshot 
 
 ![Home Page](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/homepage.png)
+![Dashboard](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/dashborad%20whether.png)
+![Multiple language](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/multiple%20language%20support.png)
+![Real time news](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/real%20time%20news.png)
+![Price prediction](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/price%20prediction%20of%20crops.png)
+![predicted price range](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/price.png)
+![fertilizer recommendation](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/fertilizer%20reccomendation%20accordint%20to%20conditions.png)
+![Crop recommendation](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/crop%20reccomendation.png)
+![Analysis](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/crops%20prices%20analysis.png)
+![accroding to crops](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/last%20year%20analysis%20of%20crops.png)
+![Next 12 months analysis](https://github.com/Abhinav-gupta-123/Krishi-Moolya/blob/main/sample%20images%20of%20projects/next%2012%20months%20analysis.png)
 
 ### KrishiMoolya 🌾  
 Welcome to **Krishi Moolya** – A platform that leverages technology to predict crop prices, empowering farmers with actionable insights for a better tomorrow.  
