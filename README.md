@@ -2,6 +2,8 @@
 AIML-based Crop Price Prediction Model
 
 
+🖼 Project Screenshot 
+
 ### KrishiMoolya 🌾  
 Welcome to **Krishi Moolya** – A platform that leverages technology to predict crop prices, empowering farmers with actionable insights for a better tomorrow.  
 
