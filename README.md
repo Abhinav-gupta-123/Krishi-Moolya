@@ -4,17 +4,39 @@ AIML-based Crop Price Prediction Model
 
 🖼 Project Screenshot 
 
+## Home Page
 ![Home Page](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/homepage.png)
+
+## Dashboard
 ![Dashboard](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/dashborad%20whether.png)
+
+## Multiple Language Support
 ![Multiple language](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/multiple%20language%20support.png)
+
+## Real-Time News
 ![Real time news](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/real%20time%20news.png)
+
+## Price Prediction of Crops
 ![Price prediction](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/price%20prediction%20of%20crops.png)
+
+## Predicted Price Range
 ![Predicted price range](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/price.png)
+
+## Fertilizer Recommendation
 ![Fertilizer recommendation](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/fertilizer%20reccomendation%20accordint%20to%20conditions.png)
+
+## Crop Recommendation
 ![Crop recommendation](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/crop%20reccomendation.png)
+
+## Crop Prices Analysis
 ![Analysis](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/crops%20prices%20analysis.png)
+
+## Last Year Analysis of Crops
 ![According to crops](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/last%20year%20analysis%20of%20crops.png)
+
+## Next 12 Months Analysis
 ![Next 12 months analysis](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/next%2012%20months%20analysis.png)
+
 
 
 ### KrishiMoolya 🌾  
